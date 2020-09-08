@@ -3,7 +3,7 @@
 // Collaborator: Johnathan Ahn jxa5570@psu.edu
 // Collaborator: Ronit Ramnarayan rvr5507@psu.edu
 // Collaborator: Nicholas Glaz nsg5204@psu.edu
-// Section: 11R
+// Section: 11
 // Breakout: 2
 
 #include <stdio.h>
