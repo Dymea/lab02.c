@@ -15,7 +15,7 @@ int main(void) {
   double letter = atof(grade);
 
   //Determining letter grade
-  if (letter >= 93.0) 
+    if (letter >= 93.0) 
   {
     printf("Your letter grade for CMPSC 131 is A.");
   }
