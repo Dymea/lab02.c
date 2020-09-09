@@ -33,23 +33,23 @@ int main(void) {
   }
   else if (letter >= 80 && letter < 83)
   {
-    printf("Your letter grade for CMPSC is B-.\n");
+    printf("Your letter grade for CMPSC 131 is B-.\n");
   }
   else if (letter >= 77.0 && letter < 80.0)
   {
-    printf("Your letter grade for CMPSC is C+.\n");
+    printf("Your letter grade for CMPSC 131 is C+.\n");
   }
   else if (letter >= 70.0 && letter < 77.0)
   {
-    printf("Your letter grade for CMPSC is C.\n");
+    printf("Your letter grade for CMPSC 131 is C.\n");
   }
   else if (letter >= 60.0 && letter < 70.0)
   {
-    printf("Your letter grade for CMPSC is D.\n");
+    printf("Your letter grade for CMPSC 131 is D.\n");
   }
   else if (letter < 60.0)
   {
-    printf("Your letter grade for CMPSC is F.\n");
+    printf("Your letter grade for CMPSC 131 is F.\n");
   }
 
   return 0;
