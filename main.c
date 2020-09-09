@@ -11,7 +11,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  char *grade = readline("Enter your CMPSC 131 grade: \n");
+  char *grade = readline("Enter your CMPSC 131 grade: ");
   double letter = atof(grade);
 
   //Determining letter grade
